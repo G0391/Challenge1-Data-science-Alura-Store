@@ -97,6 +97,4 @@ Este proyecto de **Análisis de Datos y Estrategia de Negocios** tiene como obje
 - **Almacenamiento**: Google Drive
 - **Control de Versiones**: GitHub
 
----
 
-*Este análisis proporciona una base cuantitativa sólida para la toma de decisiones estratégicas, combinando rigor analítico con visión de negocio.*
